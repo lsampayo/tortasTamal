@@ -1,0 +1,11 @@
+Country,country code,State,export_loc_id
+Mexico,MX,,1
+USA,US,,2
+Japan,JP,,3
+Mexico,MX,Mich,4
+Mexico,MX,Cdmx,5
+Mexico,MX,Edom,6
+Mexico,MX,Chih,7
+USA,US,NY,8
+USA,US,CA,9
+USA,US,OR,10
